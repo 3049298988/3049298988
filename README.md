@@ -1,5 +1,5 @@
-## Hi there 👋
-
+## 这是一个笨蛋的GitHub账号
+https://githubstat.vercel.miniproj.stevezmt.top/api?username=3049298988&show=discussions_started,prs_merged_percentage&count_private=true&show_icons=true&title_color=359697&icon_color=359697&hide_border=false&theme=radical&locale=cn
 <!--
 **3049298988/3049298988** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
